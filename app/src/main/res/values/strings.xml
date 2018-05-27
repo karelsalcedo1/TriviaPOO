@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TriviaPOO</string>
+
+    <array name="NIVELTRIVIA">
+        <item>Seleciona un nivel...</item>
+        <item>Nivel 1</item>
+    </array>
+
+
+</resources>
+
